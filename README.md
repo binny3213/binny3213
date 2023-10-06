@@ -30,7 +30,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :zap: In my free time, I solve problems and do courses in computer science.
 - 🏃 I love running and exercising in my free time.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-binny-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/binny-schriger-6b5740211)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-binny-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/binny-schriger-6b5740211/)
 
 ---
 
