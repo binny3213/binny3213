@@ -23,7 +23,7 @@
 ---
 ### :man_technologist: About Me :
 I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Israel.
-- :telescope: I’m working as a Support associate at wolt at the moment, and in my free time i'm learning to code and making projects.
+- :telescope: I’m a Computer Science Student in my end of my second yesr of studyings, and in my free time i'm learning to code and making projects.
 
 - :seedling: Exploring Technical Content Writing.
 
