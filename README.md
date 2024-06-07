@@ -22,7 +22,7 @@
 
 ---
 ### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Israel.
+I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Israel.
 - :telescope: I’m working as a Support associate at wolt at the moment, and in my free time i'm learning to code and making projects.
 
 - :seedling: Exploring Technical Content Writing.
