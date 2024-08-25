@@ -52,6 +52,7 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongoDB" **alt="MongoDB" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mySql" **alt="MySql" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" **alt="Django" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-plain-wordmark.svg" title="Pandas" **alt="Pandas" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" title="Visual studio" **alt="Visual studio" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" **alt="vscode" width="40" height="40"/>
