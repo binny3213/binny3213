@@ -66,6 +66,7 @@ I am Binny <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"
   <img src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original.svg" title="eclipse" **alt="eclipse" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="jenkins" **alt="jenkins" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="C#" **alt="C#" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" title=".NET" **alt=".NET" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="ocker" **alt="C++" width="40" height="40"/>  
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" **alt="Docker" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/docs/assets/css/discord-logo.svg" title="discord" **alt="discord" width="40" height="40"/>  
