@@ -81,9 +81,7 @@ I am Binny <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=binny3213&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
----
 
-### :writing_hand: Blog Posts :
 
 
 
