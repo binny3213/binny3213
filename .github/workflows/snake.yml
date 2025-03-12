@@ -22,8 +22,9 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: github-contribution-grid-snake.svg  # ✅ Correct output format
 
-      - name: Commit and Push the Snake Animation
+      - name: Commit and Push
         run: |
           git add github-contribution-grid-snake.svg
           git commit -m "Updated GitHub contribution snake animation" || exit 0
-          git push
+          git push origin output
+
