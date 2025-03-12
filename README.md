@@ -34,6 +34,9 @@ I am Binny <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"
 
 ---
 
+### 🐍 A Snake Game from My Contributions
+![Snake animation](https://github.com/binny3213/binny3213/blob/output/github-contribution-grid-snake.svg)
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -82,8 +85,7 @@ I am Binny <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=binny3213&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### 🐍 A Snake Game from My Contributions
-![Snake animation](https://github.com/binny3213/binny3213/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
