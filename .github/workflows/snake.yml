@@ -14,31 +14,16 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
         with:
-          ref: output
+          ref: output  # ✅ Ensures the workflow runs in the correct branch
 
       - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: dist/github-contribution-grid-snake.svg
+          outputs: github-contribution-grid-snake.svg  # ✅ Correct output format
 
-      # ✅ Add this step here before uploading artifacts
-      - name: Create dist directory if not exists
-        run: mkdir -p dist
-
-      - name: Upload Artifacts
-        uses: actions/upload-artifact@v4
-        with:
-          name: snake-artifacts
-          path: dist
-
-      - name: Set up Git Identity
+      - name: Commit and Push the Snake Animation
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-
-      - name: Commit and Push
-        run: |
-          git add -A
-          git commit -m "Updated contribution snake animation" || exit 0
+          git add github-contribution-grid-snake.svg
+          git commit -m "Updated GitHub contribution snake animation" || exit 0
           git push
