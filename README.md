@@ -83,7 +83,7 @@ I am Binny <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=binny3213&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🐍 A Snake Game from My Contributions
-![Snake animation](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/binny3213/binny3213/blob/output/github-contribution-grid-snake.svg)
 
 
 
