@@ -2,7 +2,7 @@ name: Generate Snake Game
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs daily at midnight UTC
+    - cron: "0 0 * * *"  # Runs daily at midnight UTC
   workflow_dispatch:  # Allows manual trigger
 
 jobs:
@@ -18,8 +18,9 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: dist  # ✅ Corrected output format
+          outputs: dist/github-contribution-grid-snake.svg
 
+      # ✅ Add this step here before uploading artifacts
       - name: Create dist directory if not exists
         run: mkdir -p dist
 
