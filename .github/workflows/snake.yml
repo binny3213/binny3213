@@ -14,17 +14,18 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
         with:
-          ref: output  # ✅ Ensures the workflow runs in the correct branch
+          ref: output  # ✅ Run workflow in the correct branch
 
       - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: github-contribution-grid-snake.svg  # ✅ Correct output format
+          outputs: github-contribution-grid-snake.svg  # ✅ Correct parameter
 
       - name: Commit and Push
         run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add github-contribution-grid-snake.svg
           git commit -m "Updated GitHub contribution snake animation" || exit 0
           git push origin output
-
