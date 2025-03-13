@@ -7,6 +7,9 @@
   <a href="https://www.facebook.com/binny.schriger">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white" alt="Twitter Badge"/>
   </a>
+    <a href="https://protfolio-website-nine.vercel.app/my_cv.pdf">
+       <img src="https://img.shields.io/badge/CV-Resume-green?style=for-the-badge&logo=readthedocs&logoColor=white" alt="CV Badge"/>
+    </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=binny3213&style=flat-square&color=blue" alt=""/>
 
