@@ -34,8 +34,8 @@ I am Binny <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"
 - 🏃 I love running and exercising in my free time.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-binny-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/binny-schriger-6b5740211/)
-- 📄 Find my CV and check it out: [![CV Badge](https://img.shields.io/badge/CV-Download-green?style=flat&logo=readthedocs&logoColor=white)](https://protfolio-website-nine.vercel.app/my_cv.pdf)
-- 🗻 Check out latest Project I did in Kotlin Android, PlanItGo: [![PlanItGo Badge](https://img.shields.io/badge/-PlanItGo-blue?style=flat&logo=google-earth&logoColor=white)](https://github.com/binny3213/PlanItGo-Kotlin)
+- 📄 Find my **CV** and check it out: [![CV Badge](https://img.shields.io/badge/CV-Download-green?style=flat&logo=readthedocs&logoColor=white)](https://protfolio-website-nine.vercel.app/my_cv.pdf)
+- 🗻 Check out latest Project I did in Kotlin Android, **PlanItGo** : [![PlanItGo Badge](https://img.shields.io/badge/-PlanItGo-blue?style=flat&logo=google-earth&logoColor=white)](https://github.com/binny3213/PlanItGo-Kotlin)
 ---
 
 ### 🐍 A Snake Game from My Contributions
