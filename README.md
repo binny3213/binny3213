@@ -25,7 +25,7 @@
 
 ---
 ### :man_technologist: About Me :
-I am Binny <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Israel.
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **I am Binny**.
 - :telescope: I’m a Computer Science Student at my last year of studyings, and in my free time i'm learning to code and making projects.
 
 - :seedling: Exploring Technical Content Writing.
