@@ -91,8 +91,13 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=binny3213&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_height=200)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=binny3213&layout=pie&theme=vision-friendly-dark)](https://github.com/binny3213/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=binny3213&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=binny3213&show_icons=true&theme=radical)
+
+
+
+
 
 
 
