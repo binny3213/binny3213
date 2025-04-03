@@ -8,7 +8,7 @@
   <a href="https://www.facebook.com/binny.schriger">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white" alt="Twitter Badge"/>
   </a>
-    <a href="https://protfolio-website-nine.vercel.app/my_cv.pdf">
+    <a href="https://binny-schriger.vercel.app/my_cv.pdf">
        <img src="https://img.shields.io/badge/CV-Resume-green?style=for-the-badge&logo=readthedocs&logoColor=white" alt="CV Badge"/>
     </a>
 </div>
@@ -31,8 +31,8 @@
 - :zap: In my free time, I solve problems and do courses in computer science.
 - 🏃 I love running and exercising in my free time, its really great.
 - 📬 How to reach me:  [![LinkedIn Badge](https://img.shields.io/badge/-Binny-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/binny-schriger-6b5740211/)
-- 📄 Find my **CV** and check it out: [![CV Badge](https://img.shields.io/badge/CV-Download-green?style=flat&logo=readthedocs&logoColor=white)](https://protfolio-website-nine.vercel.app/my_cv.pdf)
-- Check out my **Portfolio Website**: [![my portfolio](https://img.shields.io/badge/-My%20Portfolio-blue?style=flat&logo=link&logoColor=white)](https://protfolio-website-nine.vercel.app/)
+- 📄 Find my **CV** and check it out: [![CV Badge](https://img.shields.io/badge/CV-Download-green?style=flat&logo=readthedocs&logoColor=white)](https://binny-schriger.vercel.app/my_cv.pdf)
+- Check out my **Portfolio Website**: [![my portfolio](https://img.shields.io/badge/-My%20Portfolio-blue?style=flat&logo=link&logoColor=white)](https://binny-schriger.vercel.app/)
 - 🗻 Check out latest Project I did in Kotlin Android App helping traveling experience: **PlanItGo** : [![PlanItGo Badge](https://img.shields.io/badge/-PlanItGo-orange?style=flat&logo=google-earth&logoColor=white)](https://github.com/binny3213/PlanItGo-Kotlin)
 ---
 
