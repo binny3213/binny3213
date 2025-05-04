@@ -27,7 +27,7 @@
 ---
 ### :man_technologist: About Me :
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **I am Binny**.
-- :telescope: I’m a Computer Science Student at my last year of studyings, and in my free time i'm learning to code and making projects.
+- :telescope: I’m a Computer Science Student, and in my free time i'm learning to code and making projects.
 - :zap: In my free time, I solve problems and do courses in computer science.
 - 🏃 I love running and exercising in my free time, its really great.
 - 📬 How to reach me:  [![LinkedIn Badge](https://img.shields.io/badge/-Binny-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/binny-schriger-6b5760211/)
