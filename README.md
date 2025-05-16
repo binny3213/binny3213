@@ -56,6 +56,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original-wordmark.svg" title="slack" **alt="slack" width="60" height="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" title="redis" **alt="redis" width="60" height="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/elasticsearch/elasticsearch-original-wordmark.svg" title="elasticsearch" **alt="elasticsearch" width="60" height="60"/>  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-plain-wordmark.svg" title="pytest" **alt="pytest" width="40" height="40"/>
   <br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"  title="sass" alt="sass" width="60" height="60"/>&nbsp;
@@ -84,6 +85,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mySql" **alt="MySql" width="60" height="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql" **alt="postgresql" width="60" height="60"/>
   <br>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="pycharm" **alt="pycharm" width="60" height="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="intellij" **alt="intellij" width="60" height="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/docs/assets/css/discord-logo.svg" title="discord" **alt="discord" width="60" height="60"/>  
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="androidstudio" **alt="androidstudio" width="60" height="60"/>
@@ -104,6 +106,15 @@
 ### 📝 **Interview Tracker**  
 *Manage and track job interviews, including personal ratings and interview statistics.*  
 **Technologies:** Django, PostgreSQL, Docker, HTML/CSS/JS  
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" **alt="Django" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql" **alt="postgresql" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;  
+</div>
+
 🔗 [GitHub Repository](https://github.com/binny3213/InterviewTracker) | 🌐 [Live Demo](https://interviewtracker-86a35655c7c9.herokuapp.com/)  
 
 ---
@@ -111,6 +122,22 @@
 ### ✅ **Task Manager API (FastAPI)**  
 *A FastAPI-based task management application with CRUD operations and JWT-based authentication.*  
 **Technologies:** FastAPI, PostgreSQL, Docker, Pytest  
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="40" height="40"/>    
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain.svg" title="jQuery" **alt="jQuery" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="bootstrap" **alt="bootstrap" width="40" height="40"/>   
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" **alt="Github" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" **alt="Docker" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="sqlite" **alt="sqlite" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mySql" **alt="MySql" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql" **alt="postgresql" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-plain-wordmark.svg" title="pytest" **alt="pytest" width="40" height="40"/>
+</div>
+
 🔗 [GitHub Repository](https://github.com/binny3213/FastAPI) | 🌐 [Live Demo](https://codingwithbinny-deployment.onrender.com/)  
 
 ---
@@ -118,6 +145,11 @@
 ### 🌎 **PlanItGo (Kotlin Android App)**  
 *Mobile app for planning travel experiences, including booking and exploring destinations.*  
 **Technologies:** Kotlin, Android, Firebase, Google Maps API  
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-plain.svg" title="Kotlin" **alt="Kotlin" width="60" height="60"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="androidstudio" **alt="androidstudio" width="60" height="60"/>
+</div>
+
 🔗 [GitHub Repository](https://github.com/binny3213/PlanItGo-Kotlin)  
 
 ---
@@ -125,6 +157,19 @@
 ### 🌐 **JSP Web Application Deployment (DevOps Project)**  
 *Deploying a Java Servlet application to Tomcat, managed with Jenkins and monitored with Selenium and Gatling.*  
 **Technologies:** Jenkins, Tomcat, Selenium, Gatling  
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" **alt="Github" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="jenkins" **alt="jenkins" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="intellij" **alt="intellij" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/docs/assets/css/discord-logo.svg" title="discord" **alt="discord" width="60" height="60"/>  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" **alt="bash" width="60" height="60"/>  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" **alt="Java" width="60" height="60"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gatling/gatling-plain-wordmark.svg" title="gatling" **alt="gatling" width="60" height="60"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="selenium" **alt="selenium" width="60" height="60"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original-wordmark.svg" title="tomcat" **alt="tomcat" width="60" height="60"/>  
+</div>
+
 🔗 [GitHub Repository](https://github.com/binny3213/DevOps_Final_Project)  
 
 ---
@@ -132,6 +177,12 @@
 ### ♟️ **Checkers Game - Windows App (C# .NET Framework)**  
 *A classic Checkers game application for Windows, built with C# and .NET Framework.*  
 **Technologies:** C#, .NET Framework, Windows Forms  
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="C#" **alt="C#" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" title=".NET" **alt=".NET" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" title="Visual studio" **alt="Visual studio" width="60" height="60"/>
+</div>
+
 🔗 [GitHub Repository](https://github.com/binny3213/Checkers-Game-Windows-App)  
 
 ---
