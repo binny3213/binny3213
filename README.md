@@ -98,6 +98,36 @@
 </div>
 
 ---
+## 🚀 **Featured Projects**
+
+
+### 📝 **Interview Tracker**  
+*Manage and track job interviews, including personal ratings and interview statistics.*  
+**Technologies:** Django, PostgreSQL, Docker, HTML/CSS/JS  
+🔗 [GitHub Repository](https://github.com/binny3213/InterviewTracker) | 🌐 [Live Demo](https://interviewtracker-86a35655c7c9.herokuapp.com/)  
+
+---
+
+### ✅ **Task Manager API (FastAPI)**  
+*A FastAPI-based task management application with CRUD operations and JWT-based authentication.*  
+**Technologies:** FastAPI, PostgreSQL, Docker, Pytest  
+🔗 [GitHub Repository](https://github.com/binny3213/FastAPI) | 🌐 [Live Demo](https://codingwithbinny-deployment.onrender.com/)  
+
+---
+
+### 🌎 **PlanItGo (Kotlin Android App)**  
+*Mobile app for planning travel experiences, including booking and exploring destinations.*  
+**Technologies:** Kotlin, Android, Firebase, Google Maps API  
+🔗 [GitHub Repository](https://github.com/binny3213/PlanItGo-Kotlin)  
+
+---
+
+### 🌐 **JSP Web Application Deployment (DevOps Project)**  
+*Deploying a Java Servlet application to Tomcat, managed with Jenkins and monitored with Selenium and Gatling.*  
+**Technologies:** Jenkins, Tomcat, Selenium, Gatling  
+🔗 [GitHub Repository](https://github.com/binny3213/DevOps_Final_Project)  
+
+---
 
 ### :fire: My Stats :
 
