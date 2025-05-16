@@ -129,6 +129,13 @@
 
 ---
 
+### ♟️ **Checkers Game - Windows App (C# .NET Framework)**  
+*A classic Checkers game application for Windows, built with C# and .NET Framework.*  
+**Technologies:** C#, .NET Framework, Windows Forms  
+🔗 [GitHub Repository](https://github.com/binny3213/Checkers-Game-Windows-App)  
+
+---
+
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=binny3213&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_height=200)](https://git.io/streak-stats)
