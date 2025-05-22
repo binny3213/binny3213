@@ -154,7 +154,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="50" height="50"/>&nbsp;
 </div>
 
-🔗 [GitHub Repository](https://https://github.com/binny3213/Portfolio_Website) | 🌐 [Live Demo](https://binny-schriger.vercel.app/) 
+🔗 [GitHub Repository](https://github.com/binny3213/Portfolio_Website) | 🌐 [Live Demo](https://binny-schriger.vercel.app/) 
 
 ---
 
