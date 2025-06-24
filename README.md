@@ -128,6 +128,24 @@
 🔗 [GitHub Repository](https://github.com/binny3213/InterviewTracker) | 🌐 [Live Demo](https://interviewtracker-86a35655c7c9.herokuapp.com/)  
 
 ---
+### 📝 **TinyURL**  
+*Backend Java + Spring Boot application that shortens long URLs, tracks user clicks, and stores the data using scalable Big Data.*
+
+**Technologies:** MongoDB, Cassandra, Redis, Java, Spring boot, Swagger
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongoDB" **alt="MongoDB" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" title="redis" **alt="redis" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cassandra/cassandra-original-wordmark.svg" title="cassandra" **alt="cassandra" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original-wordmark.svg" title="swagger"  alt="swagger" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" **alt="Docker" width="60" height="60"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="spring" **alt="spring" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" **alt="Java" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="intellij" **alt="intellij" width="60" height="60"/>
+</div>
+
+🔗 [GitHub Repository](https://github.com/binny3213/tinyurl-binny) | 🌐 [Live Demo](https://binny-tinyurlbinny.runmydocker-app.com/swagger-ui.html)  
+
+---
 
 ### ✅ **Task Manager API (FastAPI)**  
 *A FastAPI-based task management application with CRUD operations and JWT-based authentication.*  
