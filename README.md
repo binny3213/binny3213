@@ -131,7 +131,7 @@
 ### 🌐 **TinyURL**  
 *Backend Java + Spring Boot application that shortens long URLs, tracks user clicks, and stores the data using scalable Big Data.*
 
-**Technologies:** MongoDB, Cassandra, Redis, Java, Spring boot, Swagger
+**Technologies:** MongoDB, Cassandra, Redis, Java, Spring boot, Swagger, Docker
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongoDB" **alt="MongoDB" width="60" height="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" title="redis" **alt="redis" width="60" height="60"/>
@@ -144,6 +144,27 @@
 </div>
 
 🔗 [GitHub Repository](https://github.com/binny3213/tinyurl-binny) | 🌐 [Live Demo](https://binny-tinyurlbinny.runmydocker-app.com/swagger-ui.html)  
+
+---
+
+### 📈 **FullStack-CPU-Monitor**  
+*A Full Stack monitoring system for visualizing real-time AWS EC2 CPU usage, featuring an interactive Angular frontend, a robust Spring Boot backend, and full Docker packaging for easy deployment.*
+**Technologies:** Docker,AWS,Angular,CSS,HTML, Tailwind, Java, TypeScript, Spring boot, Swagger
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original-wordmark.svg" title="swagger"  alt="swagger" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" **alt="Docker" width="60" height="60"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="amazonwebservices" **alt="amazonwebservices" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="angular" alt="angular" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain-wordmark.svg"  title="tailwindcss" alt="tailwindcss" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" **alt="typescript" width="60" height="60"/>  &nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" **alt="Java" width="60" height="60"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="intellij" **alt="intellij" width="60" height="60"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="spring" **alt="spring" width="60" height="60"/>&nbsp
+</div>
+
+🔗 [GitHub Repository](https://github.com/binny3213/FullStack-CPU-Monitor) | 🌐 [Live Demo](https://cpu-monitor-app.runmydocker-app.com/)  
 
 ---
 
