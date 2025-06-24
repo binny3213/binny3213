@@ -61,6 +61,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/stackoverflow/stackoverflow-original-wordmark.svg" title="stackoverflow" **alt="stackoverflow" width="60" height="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="amazonwebservices" **alt="amazonwebservices" width="60" height="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="spring" **alt="spring" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cassandra/cassandra-original-wordmark.svg" title="cassandra" **alt="cassandra" width="60" height="60"/>
+ 
   <br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="angular" alt="angular" width="60" height="60"/>&nbsp;
