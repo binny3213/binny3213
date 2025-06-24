@@ -128,7 +128,7 @@
 🔗 [GitHub Repository](https://github.com/binny3213/InterviewTracker) | 🌐 [Live Demo](https://interviewtracker-86a35655c7c9.herokuapp.com/)  
 
 ---
-### 📝 **TinyURL**  
+### 🌐 **TinyURL**  
 *Backend Java + Spring Boot application that shortens long URLs, tracks user clicks, and stores the data using scalable Big Data.*
 
 **Technologies:** MongoDB, Cassandra, Redis, Java, Spring boot, Swagger
