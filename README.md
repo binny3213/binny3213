@@ -145,7 +145,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="intellij" **alt="intellij" width="60" height="60"/>
 </div>
 
-🔗 [GitHub Repository](https://github.com/binny3213/tinyurl-binny) | 🌐 [Live Demo](https://binny-tinyurlbinny.runmydocker-app.com/swagger-ui.html)  
+🔗 [GitHub Repository](https://github.com/binny3213/tinyurl-binny) | 🌐 [Live Demo](https://binny-tinyurl.runmydocker-app.com/swagger-ui.html)  
 
 ---
 
