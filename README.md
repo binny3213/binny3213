@@ -114,6 +114,26 @@
 ---
 ## 🚀 **Featured Projects**
 
+### 📝 **WebCrawler**  
+*A fullstack web crawling system,that crawles through a whole domain URL and downloads all pages to local directory.*  
+**Technologies:** Kafka, Redis, Spring boot, swagger, Docker, Java, React, Typescript, HTML/CSS/JS  
+
+<div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg" title="apachekafka" **alt="apachekafka" width="60" height="60"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" title="redis" **alt="redis" width="60" height="60"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="spring" **alt="spring" width="60" height="60"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original-wordmark.svg" title="swagger"  alt="swagger" width="60" height="60"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" **alt="Docker" width="60" height="60"/> 
+     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" **alt="Java" width="60" height="60"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="60" height="60"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;  
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" **alt="typescript" width="60" height="60"/>  
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="60" height="60"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="60" height="60"/>&nbsp;
+
+</div>   
+
+🔗 [GitHub Repository](https://github.com/binny3213/webcrawler) | 🌐 [Live Demo](http://webcrawler-binny.runmydocker-app.com/)  
 
 ### 📝 **Interview Tracker**  
 *Manage and track job interviews, including personal ratings and interview statistics.*  
