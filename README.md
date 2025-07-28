@@ -27,13 +27,10 @@
 ---
 ### :man_technologist: About Me :
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **I am Binny**.
-- :telescope: I’m a Computer Science Student, and in my free time i'm learning to code and making projects.
-- :zap: In my free time, I solve problems and do courses in computer science.
-- 🏃 I love running and exercising in my free time, its really great.
+- :telescope: I’m a Computer Science Graduate, and in my free time i'm making projects.
 - 📬 How to reach me:  [![LinkedIn Badge](https://img.shields.io/badge/-Binny-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/binny-schriger-6b5760211/)
 - 📄 Find my **CV** and check it out: [![CV Badge](https://img.shields.io/badge/CV-Download-green?style=flat&logo=readthedocs&logoColor=white)](https://binny-schriger.vercel.app/my_cv.pdf)
 - Check out my **Portfolio Website**: [![my portfolio](https://img.shields.io/badge/-My%20Portfolio-blue?style=flat&logo=link&logoColor=white)](https://binny-schriger.vercel.app/)
-- 🗻 Check out latest Project I did in Kotlin Android App helping traveling experience: **PlanItGo** : [![PlanItGo Badge](https://img.shields.io/badge/-PlanItGo-orange?style=flat&logo=google-earth&logoColor=white)](https://github.com/binny3213/PlanItGo-Kotlin)
 ---
 
 ### 🐍 A Snake Game from My Contributions
